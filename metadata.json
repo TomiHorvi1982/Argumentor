@@ -1,0 +1,6 @@
+{
+  "name": "Asertivní komunikační asistent",
+  "description": "Pomocník pro analýzu zpráv, detekci manipulace a generování asertivních odpovědí metodou Gray Rock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
